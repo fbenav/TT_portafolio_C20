@@ -19,5 +19,9 @@ En este sprint repasos conceptos asociados a las librerias basicas de analisis d
 
 Ademas de aprender a declarar funciones.
 
-## Sprint 3: Desarrollo de software
+## Sprint 3: Data Wrangler
 En este sprint se enseñan conceptos basicos de la limpieza y analisis exploratorio de datos.
+
+## Sprint 5: Desarrollo de software
+En este sprint aprendemos algunos conceptos de DS como:
+- git
