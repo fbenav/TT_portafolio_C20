@@ -18,3 +18,6 @@ En este sprint repasos conceptos asociados a las librerias basicas de analisis d
 - numpy
 
 Ademas de aprender a declarar funciones.
+
+## Sprint 3: Desarrollo de software
+En este sprint se enseñan conceptos basicos de la limpieza y analisis exploratorio de datos.
