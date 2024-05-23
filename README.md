@@ -18,3 +18,7 @@ En este sprint repasos conceptos asociados a las librerias basicas de analisis d
 - numpy
 
 Ademas de aprender a declarar funciones.
+
+## Sprint 3: Data Wrangler
+En este sprint aprendemos algunos conceptos de DS como:
+- git
